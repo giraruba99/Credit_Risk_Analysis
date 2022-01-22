@@ -1,10 +1,10 @@
 # Credit_Risk_Analysis
-Credit risk analysis based on Machine learning is going on here.
+Credit risk analysis based on Machine learning is going on here. let's dive in.
 
 ## Purpose and overview
-- The main purpose of this analysis is to analyze the data at hand collected and based on the result we are going to determine the credit risk. The financial industry is very watchful for uncertainty and wants assurance not to take risky decisions.
+- The main purpose of this analysis is to analyze the data at hand and based on the result we are going to determine the credit risk. The financial industry is very watchful for uncertainty and wants assurance not to take risky decisions.
 
-- Credit companies put Machine Learning techniques in place to learn detailed data of a credit applicant to gauge the if it is safe/risky to approve the credit application. That is exactly what we are doing in this project.
+- Credit companies put Machine Learning techniques in place to learn detailed data of a credit applicant to gauge if it is safe/risky to approve the credit application. That is exactly what we are doing in this project.
 
 ## Result
 - credit Risk Resampling:
