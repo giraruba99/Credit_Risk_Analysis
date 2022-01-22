@@ -10,11 +10,17 @@ Credit risk analysis based on Machine learning is going on here.
 - credit Risk Resampling:
 1. Oversampling
 
+![Oversampling](https://user-images.githubusercontent.com/89214854/150619785-3c388430-161f-4b1a-a49e-457a46f76ac0.png)
+
+
   * The `low-risk` and `high-risk` precision was 100% and 1% respectively.
   * The `low-risk` and `high-risk` recall came back 69% and 66% respectively.
   * And the balanced accuracy score was 68%.
 
 2. Undersamlping
+
+![Undersampling](https://user-images.githubusercontent.com/89214854/150619791-3082cab4-a5ab-4289-9bea-356e076f480b.png)
+
 
   * The `low-risk` and `high-risk` precision was 100% and 1% respectively.
   * The `low-risk` and `high-risk` recall came back 48% and 75% respectively.
@@ -22,17 +28,25 @@ Credit risk analysis based on Machine learning is going on here.
 
 3. SMOTE Oversampling
 
+![SMOTE Oversampling](https://user-images.githubusercontent.com/89214854/150619807-646fbc02-a2db-4b4b-84dc-ec0f11807d95.png)
+
   * The `low-risk` and `high-risk` precision was 100% and 1% respectively.
   * The `low-risk` and `high-risk` recall came back 66% and 71% respectively.
   * And the balanced accuracy score was 69%.
 
 4. Combination (Over and Under) Sampling
 
+![Combination (Over and Under) Sampling](https://user-images.githubusercontent.com/89214854/150619826-6a3160e6-caba-4faf-aa64-86ad47ce484a.png)
+
+
   * The `low-risk` and `high-risk` precision was 100% and 1% respectively.
   * The `low-risk` and `high-risk` recall came back 46% and 72% respectively.
   * And the balanced accuracy score was 59%.
 
 5. Balanced Random Forest Classifier
+
+![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/89214854/150619841-ac45ff09-815d-4282-bf0a-b55a06eba9ef.png)
+
   
   * The `low-risk` and `high-risk` precision was 100% and 4% respectively.
   * The `low-risk` and `high-risk` recall came back 88% and 71% respectively.
@@ -43,6 +57,9 @@ Credit risk analysis based on Machine learning is going on here.
   * The `low-risk` and `high-risk` precision was 100% and 9% respectively.
   * The `low-risk` and `high-risk` recall came back 94% and 89% respectively.
   * And the balanced accuracy score was 92%.
+
+![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/89214854/150619852-8cd3c15f-1e09-46d6-86c6-ff62e899ff38.png)
+
 
 - From all six models of machine learning matrixes, we learned:
 
